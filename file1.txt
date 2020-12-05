@@ -1,1 +1,3 @@
+line 2 in file 1 by dev b
 line 3 by dev a
+line 4 by dev a
